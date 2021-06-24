@@ -13,7 +13,7 @@ public class Email {
 	private String alternateEmail;
 	private String companySuffix = "zyxcompany.com";
 	
-	//Contructor to receive first name and last name
+	// Constructor to receive first name and last name
 	public Email(String firstName, String lastName) {
 		this.firstName = firstName;
 		this.lastName = lastName;
